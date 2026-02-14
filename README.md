@@ -3,7 +3,8 @@
 ![Event Banner](./assets/banner.png)
 
 # Title: Playlist It
-Dont spend hours adding your favourite songs to your playlists. This apps does this for you one a day. You will listen to your fav music more than once right..?This makes the workflow to automatically add that song to a playlist. No work, good result.!!
+
+## Dont spend hours adding your favourite songs to your playlists. This apps does this for you one a day. You will listen to your fav music more than once right..?This makes the workflow to automatically add that song to a playlist. No work, good result.!!
 ---
 
 ### Team Members
