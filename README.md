@@ -12,7 +12,7 @@
 ---
 
 ### Link to product walkthrough
-[Insert Link to Video (YouTube/Drive)]
+[Video Drive Link](https://drive.google.com/drive/folders/1pf1joTd4Y7Wsq7a3dytdvRBT1_8ACAjo?usp=drive_link)
 
 ---
 
